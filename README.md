@@ -1,9 +1,6 @@
 <h1 align="center">JaeYun Na</h1>
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Bi's%20GitHub%20&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
-### Welcome to my page. <br> 느리지만, 책임감있는 신입 개발자 나재윤입니다.
-
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Venom.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20my%20GitHub%20-nl-느리지만,%20책임감있는%20신입%20개발자%20나재윤입니다.&animation=twinkling&fontSize=25&fontAlignY=25&fontAlign=50&height=200&&descAlign=50)
 
 <h3>🫡Introduction</h3>
 - 제가 가진 끈질긴 추적력은 복잡한 문제 해결에 있어 큰 장점이며, 어떤 상황에서도 문제를 해결하기 위한 꾸준한 노력을 기울일 수 있습니다.<br>
@@ -39,7 +36,7 @@
 - 기술적인 문제뿐만 아니라 사용자의 요구와 비즈니스 목표를 이해하고 이를 해결할 수 있는 개발자가 되는 것을 목표로 합니다.<br>
 - 다양한 프로젝트에 참여하여 실제 환경에서의 경험을 쌓고, 이를 통해 역량을 검증하고 상시 향상시키는 개발자가 되고싶습니다.
 
-
+<!--
 **Jaeyun-Na/Jaeyun-Na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -52,4 +49,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+  --!>
