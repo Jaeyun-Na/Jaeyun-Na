@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Bi's%20GitHub%20&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 ### Welcome to my page. <br> 느리지만, 책임감있는 신입 개발자 나재윤입니다.
 
-
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Venom.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 <h3>🫡Introduction</h3>
 - 제가 가진 끈질긴 추적력은 복잡한 문제 해결에 있어 큰 장점이며, 어떤 상황에서도 문제를 해결하기 위한 꾸준한 노력을 기울일 수 있습니다.<br>
