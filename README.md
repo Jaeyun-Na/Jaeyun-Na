@@ -35,9 +35,9 @@
 - 팀원들과의 활발한 커뮤니케이션을 통해 팀워크를 강화하고, 효율적인 업무를 통해 공동의 목표를 달성하는 개발자가 되고싶습니다.<br>
 - 기술적인 문제뿐만 아니라 사용자의 요구와 비즈니스 목표를 이해하고 이를 해결할 수 있는 개발자가 되는 것을 목표로 합니다.<br>
 - 다양한 프로젝트에 참여하여 실제 환경에서의 경험을 쌓고, 이를 통해 역량을 검증하고 상시 향상시키는 개발자가 되고싶습니다.
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeyun-Na&layout=compact)](https://github.com/Jaeyun-Na/github-readme-stats)
-
+--!>
 
 
 <!--
