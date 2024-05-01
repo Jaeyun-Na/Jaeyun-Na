@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20my%20GitHub%20-nl-느리지만,%20책임감있는%20신입%20개발자%20나재윤입니다.&animation=twinkling&fontSize=25&fontAlignY=25&fontAlign=50&height=200&&descAlign=50)
 
 <h3>🫡Introduction</h3>
-- 제가 가진 끈질긴 추적력은 복잡한 문제 해결에 있어 큰 장점이며, 어떤 상황에서도 문제를 해결하기 위한 꾸준한 노력을 기울일 수 있습니다.<br>
+- 제가 가진 끈질김은 복잡한 문제 해결에 있어 큰 장점이며, 어떤 상황에서도 문제를 해결하기 위한 꾸준한 노력을 기울일 수 있습니다.<br>
 - 저는 동료와의 원활한 소통을 중요시하며, 이를 통해 팀 내에서 역할을 충실히 수행하며 팀플레이어로서의 역량을 발휘할 수 있습니다.<br>
 - 제 노력과 책임감, 그리고 팀워크를 통해 어떤 문제든 해결하고, 팀의 성공을 위해 끊임없이 노력하는 개발자가 되겠습니다.<br>
 
